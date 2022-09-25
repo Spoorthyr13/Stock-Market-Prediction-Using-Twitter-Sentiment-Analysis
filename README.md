@@ -11,4 +11,5 @@ Team Name: Hypertext-Assassins Team Members :
 
 4)Chethan N V   1JB19CS189
 
-This repository consists of the code , report about the project.
+This repository consists of the code and report about the project.
+Using thhe Random Forest Regressor Model we have obtained 92.6% accuracy. 
